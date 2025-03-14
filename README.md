@@ -7,7 +7,7 @@
 
 `sudo apt install git`
 
-`git clone link`
+`git clone https://github.com/Web-HunterX/web-killer`
 
 `cd web-killer`
 
