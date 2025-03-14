@@ -1,4 +1,4 @@
-# web-killer-
+# web-killer
 **installation:**
 
 `sudo apt update`
